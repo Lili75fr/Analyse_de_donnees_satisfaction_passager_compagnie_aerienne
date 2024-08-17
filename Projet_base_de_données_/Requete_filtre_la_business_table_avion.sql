@@ -1,0 +1,1 @@
+SELECT * FROM AVION WHERE CLASS = 'Business';
